@@ -9,3 +9,4 @@
 echo 'Go to work';
 echo htmlspecialchars($_GET['action']);
 //Testing... Interesting :)
+//...
